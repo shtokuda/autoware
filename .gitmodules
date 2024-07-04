@@ -1,0 +1,21 @@
+[submodule "autoware_core/autoware_msgs"]
+	path = autoware_core/autoware_msgs
+	url = https://github.com/autowarefoundation/autoware_msgs.git
+[submodule "autoware_core/autoware_adapi_msgs"]
+	path = autoware_core/autoware_adapi_msgs
+	url = https://github.com/autowarefoundation/autoware_adapi_msgs.git
+[submodule "autoware_core/autoware_internal_msgs"]
+	path = autoware_core/autoware_internal_msgs
+	url = https://github.com/autowarefoundation/autoware_internal_msgs.git
+[submodule "autoware_core/autoware_common"]
+	path = autoware_core/autoware_common
+	url = https://github.com/autowarefoundation/autoware_common.git
+[submodule "autoware_core/autoware_cmake"]
+	path = autoware_core/autoware_cmake
+	url = https://github.com/autowarefoundation/autoware_cmake.git
+[submodule "autoware_core/autoware_utils"]
+	path = autoware_core/autoware_utils
+	url = https://github.com/autowarefoundation/autoware_utils.git
+[submodule "autoware_core/autoware_lanelet2_extension"]
+	path = autoware_core/autoware_lanelet2_extension
+	url = https://github.com/autowarefoundation/autoware_lanelet2_extension.git
